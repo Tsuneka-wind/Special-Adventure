@@ -31,7 +31,7 @@ null,
 {"id":29,"expanded":true,"name":"土壤密室","order":39,"parentId":28,"scrollX":1012.4444444444445,"scrollY":549.7777777777778},
 {"id":30,"expanded":true,"name":"宝石密室","order":40,"parentId":29,"scrollX":1012.4444444444445,"scrollY":549.7777777777778},
 {"id":31,"expanded":true,"name":"书记官室","order":32,"parentId":21,"scrollX":1012.4444444444445,"scrollY":549.7777777777778},
-{"id":32,"expanded":true,"name":"皇都驿站","order":41,"parentId":15,"scrollX":720.8888888888889,"scrollY":639.5555555555555},
+{"id":32,"expanded":true,"name":"皇都驿站","order":41,"parentId":15,"scrollX":1005.3333333333334,"scrollY":650.2222222222222},
 {"id":33,"expanded":false,"name":"大吾的香闺","order":30,"parentId":22,"scrollX":1012.4444444444445,"scrollY":549.7777777777778},
 {"id":34,"expanded":true,"name":"小艾藏身处","order":31,"parentId":22,"scrollX":1012.4444444444445,"scrollY":549.7777777777778},
 {"id":35,"expanded":false,"name":"橙华森林","order":42,"parentId":32,"scrollX":1005.3333333333334,"scrollY":604},
@@ -56,6 +56,5 @@ null,
 {"id":54,"expanded":true,"name":"咖啡馆在的最外层","order":46,"parentId":44,"scrollX":1005.3333333333334,"scrollY":549.7777777777778},
 {"id":55,"expanded":true,"name":"X家所在的最外层","order":48,"parentId":44,"scrollX":1005.3333333333334,"scrollY":627.1111111111111},
 {"id":56,"expanded":false,"name":"机械师协会的最外层","order":47,"parentId":44,"scrollX":1005.3333333333334,"scrollY":650.2222222222222},
-{"id":57,"expanded":false,"name":"武道馆里房间","order":13,"parentId":9,"scrollX":1012.4444444444445,"scrollY":549.7777777777778},
-{"id":58,"expanded":false,"name":"1","order":58,"parentId":46,"scrollX":832,"scrollY":640}
+{"id":57,"expanded":false,"name":"武道馆里房间","order":13,"parentId":9,"scrollX":1012.4444444444445,"scrollY":549.7777777777778}
 ]

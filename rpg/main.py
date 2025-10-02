@@ -47,6 +47,10 @@ def addOneLine(role, face, txt):
         tempTxt['eventData']['messageText'] = f'【黄】\n{txt}'
     elif num == 6:
         tempTxt['eventData']['messageText'] = f'【沙菲雅】\n{txt}'
+    elif num == 11:
+        tempTxt['eventData']['messageText'] = f'【路比】\n{txt}'
+    elif num == 12:
+        tempTxt['eventData']['messageText'] = f'【沙菲雅】\n{txt}'
     else:
         tempTxt['eventData']['messageText'] = f'【{role}】\n{txt}'
     tempTxt['eventData']['blockStart'] = blockStart

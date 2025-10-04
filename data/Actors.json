@@ -7,7 +7,7 @@ null,
 {"id":5,"battlerName":"","characterIndex":2,"characterName":"ruby","classId":8,"equips":[8,0,0,15,16],"faceIndex":7,"faceName":"关东-城都","traits":[],"initialLevel":5,"maxLevel":99,"name":"沙菲雅","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":5,"characterName":"ruby","classId":9,"equips":[9,0,0,17,13],"faceIndex":6,"faceName":"关东-城都","traits":[],"initialLevel":5,"maxLevel":99,"name":"米拉特","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"","characterIndex":1,"characterName":"ruby","classId":8,"equips":[8,0,0,14,0],"faceIndex":5,"faceName":"关东-城都","traits":[],"initialLevel":5,"maxLevel":99,"name":"沙菲雅","nickname":"","note":"","profile":""},
-{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":5,"characterName":"ruby","classId":9,"equips":[9,0,0,17,13],"faceIndex":6,"faceName":"关东-城都","traits":[],"initialLevel":15,"maxLevel":99,"name":"米拉特","nickname":"","note":"","profile":""},
 {"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
